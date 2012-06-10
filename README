@@ -1,0 +1,3 @@
+A small utility that takes a web page and then merges scripts/css/images to a single HTML file. Doesn't support dynamically loaded content.
+
+Compilation: qmake && make
